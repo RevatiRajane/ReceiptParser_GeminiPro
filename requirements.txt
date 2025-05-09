@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv   # If you use .env for Tesseract path
+pytesseract
+Pillow
+python-multipart # For file uploads in FastAPI
